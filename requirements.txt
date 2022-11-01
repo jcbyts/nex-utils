@@ -62,7 +62,7 @@ python-dateutil
 pytz
 pyzmq==19.0.2
 requests
-scipy==1.9.1
+scipy==1.7.3
 sip
 six
 stack-data
