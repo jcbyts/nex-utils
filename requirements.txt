@@ -8,9 +8,6 @@ certifi
 cffi
 charset-normalizer
 colorama
-conda==22.9.0
-conda-content-trust
-conda-package-handling
 cryptography
 cycler
 Cython
@@ -65,9 +62,6 @@ python-dateutil
 pytz
 pyzmq==19.0.2
 requests
-ruamel-yaml-conda
-ruamel.yaml==0.17.21
-ruamel.yaml.clib==0.2.6
 scipy==1.9.1
 sip
 six
