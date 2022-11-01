@@ -39,7 +39,7 @@ numba
 numexpr
 numpy==1.20.0
 packaging
-pandas==1.4.4
+# pandas==1.4.4
 parso
 pexpect
 pickleshare
